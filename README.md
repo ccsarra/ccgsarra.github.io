@@ -165,9 +165,7 @@ interests as me!
 
 <table border="4" cellpadding="10" width="1000" align="center">
 <tr>
-<th> brigada! <br>
-07.23.24 <br>
-A fun day where we met our advisors for the first time and cleaned our room! <br>
+<th> one-act play!
 </th>
 <td> <img src="ICT/brigada.jpg" alt="brig." width="150px" heigth="140px"></img> </td>
 <td> <img src="ICT/brigada me.jpg" alt="brig1." width="150x" heigth="14px"></img> </td>
