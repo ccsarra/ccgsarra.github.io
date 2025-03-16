@@ -1,11 +1,21 @@
 <html>
 <head><title> E-PORTFOLIO</title></head>
  <head> <script type="text/javascript">
-function show_alert ()
-{alert ("WARNING! WARNING!");}
+function check()
+{
+if (document.example.answer.value=="Sarra")
+{document.write("Nice!");}
+else
+{document.write("Wrong, try again!");}}
+</script>
+</head>
 </script></head>
 <body bgcolor="#9E829C">
-<input type="button" onclick="show_alert()" value="ts pmo"/>
+ <p> Before you continue, what is my surname?</p>
+<form name="example">
+<input type="text" name="answer" value="">
+<input type="button" name="answerbutton" value="SUBMIT" onClick=check()>
+</form>
 <h1><b> ₊‧°𐐪♡𐑂°‧₊ my e-portfolio - ict ₊‧°𐐪♡𐑂°‧₊</b></h1>
 
 <table border="4" cellpadding="5" width="500" align="center">
